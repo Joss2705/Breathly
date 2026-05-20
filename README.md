@@ -1,5 +1,3 @@
-# Breathly
-Breathing exercises to reduce anxiety and help to stabilize heart rate
 # 🌬️ Breathly - Quick Installation Guide
 
 Welcome to **Breathly**, your controlled breathing and cardiac coherence companion, designed to work anywhere, anytime, even completely offline (Airplane Mode).
